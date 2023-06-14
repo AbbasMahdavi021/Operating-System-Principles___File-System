@@ -1,9 +1,9 @@
 # CSC415 Group Term Assignment - File System - Abbas M.
 
 Description: 
-
 This project involves developing a file system in three phases: formatting the volume, implementing directory functions, and handling file operations. It provides low-level read and write functions and a shell program for testing the file system. Interfaces include file I/O, directory functions, and file stats. The goal is to create a functional file system with various commands for file and directory management.
 
+Extensive Write Up PDF included
 
 This is a GROUP assignment written in C.
 
